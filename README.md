@@ -1,11 +1,7 @@
 # Azure 기반 Infra 구축
      AWS 기반 Infra 구축
-     WEB/WAS 분리
-     Tomcat의 Error Page 구현
-     Prometheus, Grafana를 활용해 Resources Monitoring 구축
-     CloudWatch를 활용해 Application Monitoring 구축
-     SNS를 통한 Application Error 메일 알림 구현
-     Slack를 통한 각 서비스 알람 구현
+     WordPress-DB를 연동하여, 2-Tier 웹 서비스 운영
+     
 ## 진행 기간
 - 2022.08.01 ~ 2022.08.05
 
