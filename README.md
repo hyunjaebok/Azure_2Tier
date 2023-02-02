@@ -1,5 +1,5 @@
 # Azure 기반 Infra 구축
-     AWS 기반 Infra 구축
+     Azure 기반 Infra 구축
      WordPress-DB를 연동하여, 2-Tier 웹 서비스 운영
      
 ## 📆 진행 기간
