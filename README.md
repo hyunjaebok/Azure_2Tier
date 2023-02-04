@@ -32,7 +32,7 @@
 
 ## 📖 상세 내용 
 ### Infra Architecture
-<img src="https://user-images.githubusercontent.com/110655823/215587374-41fcd7d1-e7be-4c85-8d0c-2fdc241b6478.png"  width="500" height="600"/>
+<img src="https://user-images.githubusercontent.com/110655823/216750105-cca2ecbb-c32a-4bc6-b80a-d1a623d9d75e.png"  width="800" height="500"/>
 
 >- 관리자는 Jumobox를 통해 웹 서비스 운영 및 관리
 >- 고객은 Frontend Public IP Address을 통해 웹 서비스 이용
