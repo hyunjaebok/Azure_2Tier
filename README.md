@@ -40,7 +40,7 @@
 </br>
 
 ## 🔗 구축 과정
-### - Notion Link(https://www.notion.so/Azure-Infra-ba077b92104c4a618bb163b8afecfafc)
+### [- Notion Link](https://awesome-bottle-5fa.notion.site/Azure-Infra-ba077b92104c4a618bb163b8afecfafc)
 
 </br>
 
